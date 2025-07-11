@@ -29,10 +29,10 @@
                         "flipX": false
                 },
                 {
-                        "offsets": [-53, 10],
+                        "offsets": [14, 11],
                         "flipY": false,
                         "frameRate": 24,
-                        "prefix": "Blied animation left",
+                        "prefix": "Blied animation right",
                         "name": "singLEFT",
                         "looped": false,
                         "flipX": false
@@ -56,10 +56,10 @@
                         "flipX": false
                 },
                 {
-                        "offsets": [14, 11],
+                        "offsets": [-53, 10],
                         "flipY": false,
                         "frameRate": 24,
-                        "prefix": "Blied animation right",
+                        "prefix": "Blied animation left",
                         "name": "singRIGHT",
                         "looped": false,
                         "flipX": false
