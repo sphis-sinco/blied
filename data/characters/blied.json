@@ -1,92 +1,68 @@
 {
-	"version": "1.0.0",
-	"renderType": "multisparrow",
-	"offsets": [
-		0,
-		0
-	],
-	"danceEvery": 1,
-	"scale": 1,
-	"name": "Blied",
-	"flipX": true,
-	"cameraOffsets": [
-		0,
-		0
-	],
-	"singTime": 8,
-	"startingAnimation": "idle",
-	"isPixel": false,
-	"assetPath": "characters/Blied",
-	"healthIcon": {
-		"isPixel": false,
-		"offsets": [
-			0,
-			0
-		],
-		"scale": 1,
-		"id": "blied",
-		"flipX": false
-	},
-	"animations": [
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"flipY": false,
-			"frameRate": 24,
-			"prefix": "Blied animation idle",
-			"name": "idle",
-			"looped": false,
-			"flipX": false
-		},
-		{
-			"offsets": [
-				15,
-				10
-			],
-			"flipY": false,
-			"frameRate": 24,
-			"prefix": "Blied animation left",
-			"name": "singLEFT",
-			"looped": false,
-			"flipX": false
-		},
-		{
-			"offsets": [
-				-25,
-				10
-			],
-			"flipY": false,
-			"frameRate": 24,
-			"prefix": "Blied animation down",
-			"name": "singDOWN",
-			"looped": false,
-			"flipX": false
-		},
-		{
-			"offsets": [
-				-25,
-				40
-			],
-			"flipY": false,
-			"frameRate": 24,
-			"prefix": "Blied animation up",
-			"name": "singUP",
-			"looped": false,
-			"flipX": false
-		},
-		{
-			"offsets": [
-				-30,
-				5
-			],
-			"flipY": false,
-			"frameRate": 24,
-			"prefix": "Blied animation right",
-			"name": "singRIGHT",
-			"looped": false,
-			"flipX": false
-		}
-	]
+        "version": "1.0.0",
+        "renderType": "multisparrow",
+        "offsets": [0, 0],
+        "danceEvery": 1,
+        "scale": 1,
+        "name": "Blied",
+        "flipX": true,
+        "cameraOffsets": [0, 0],
+        "singTime": 8,
+        "startingAnimation": "idle",
+        "isPixel": false,
+        "assetPath": "characters/Blied",
+        "healthIcon": {
+                "isPixel": false,
+                "offsets": [0, 0],
+                "scale": 1,
+                "id": "face",
+                "flipX": false
+        },
+        "animations": [
+                {
+                        "offsets": [0, 0],
+                        "flipY": false,
+                        "frameRate": 24,
+                        "prefix": "Blied animation idle",
+                        "name": "idle",
+                        "looped": false,
+                        "flipX": false
+                },
+                {
+                        "offsets": [-53, 10],
+                        "flipY": false,
+                        "frameRate": 24,
+                        "prefix": "Blied animation left",
+                        "name": "singLEFT",
+                        "looped": false,
+                        "flipX": false
+                },
+                {
+                        "offsets": [-22, 7],
+                        "flipY": false,
+                        "frameRate": 24,
+                        "prefix": "Blied animation down",
+                        "name": "singDOWN",
+                        "looped": false,
+                        "flipX": false
+                },
+                {
+                        "offsets": [-14, 40],
+                        "flipY": false,
+                        "frameRate": 24,
+                        "prefix": "Blied animation up",
+                        "name": "singUP",
+                        "looped": false,
+                        "flipX": false
+                },
+                {
+                        "offsets": [14, 11],
+                        "flipY": false,
+                        "frameRate": 24,
+                        "prefix": "Blied animation right",
+                        "name": "singRIGHT",
+                        "looped": false,
+                        "flipX": false
+                }
+        ]
 }
